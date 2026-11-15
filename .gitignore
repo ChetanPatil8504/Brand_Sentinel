@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+*.log
+brand_sentinel.db*
+*.tsbuildinfo
+*.sqlite
+*.db-journal
+cloudflared.exe
+uploads/*
+!uploads/.gitkeep
