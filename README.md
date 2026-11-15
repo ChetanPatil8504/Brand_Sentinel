@@ -166,3 +166,5 @@ Open **`http://localhost:5173`** in your browser.
 ## 7. Team Vajra | CodeTitan Hackathon 2026
 Built with precision, explainability, security, and human accountability.
 
+
+# Brand_Sentinel
